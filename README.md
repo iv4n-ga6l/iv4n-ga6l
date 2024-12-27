@@ -11,7 +11,7 @@
 <br>
 
 <details>
-  <summary>Computer Vision & CNN</summary>
+  <summary>Computer Vision </summary>
 
   <table>
 	<tbody width="100%">
