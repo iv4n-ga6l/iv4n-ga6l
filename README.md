@@ -559,6 +559,7 @@ Playful dice rolling game built in Flutter 💙 with fun animations and faces cu
 </div>
 		</td>
 	</tr>
+	  <!--
 	<tr>
 		<td>
 <img width="600px" src="https://i.ibb.co/fGrvSNk/Screenshot-2024-11-04-184721.png" alt="Image Toolbox" />
@@ -577,6 +578,7 @@ Image processing tool suite web app built using NextJs/Tailwind/ShadcnUI with Py
 </div>
 		</td>
 	</tr>
+	  -->
 	<tr>
 		<td>
 <img width="600px" src="https://i.ibb.co/LR8L8Xj/Screenshot-2024-11-04-184919.png" alt="Image Toolbox" />
