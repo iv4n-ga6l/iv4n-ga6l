@@ -1,6 +1,11 @@
-<h3>Hi!</h3>
+<h4>Software Engineer</h4>
+----
 
-<h4>I'm Software Engineer with a focus on apps building, Machine Learning & Computer Vision</h4>
+I have a lot of interest in the following areas :
+- Mobile Apps
+- ML & Computer Vision
+
+
 
 <p align="left">
   <a href="https://skillicons.dev">
