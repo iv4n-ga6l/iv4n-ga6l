@@ -1,8 +1,7 @@
-<h4>Software Engineer</h4>
-<br>
+<h4><strong>Software Engineer</strong></h4>
+<hr/>
 
-
-I have a lot of interest in the following areas :
+My areas of interest are :
 - Mobile Apps
 - ML & Computer Vision
 
@@ -484,7 +483,7 @@ I have a lot of interest in the following areas :
 
 ---
 
-## Projects
+## ⭐ Projects
 
 <table>
   <tbody>
