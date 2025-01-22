@@ -10,6 +10,7 @@
 
 <br>
 
+<!--
 <details>
   <summary>Computer Vision </summary>
 
@@ -151,6 +152,7 @@
   </table>
 	
 </details>
+-->
 
 <!--
 <details>
