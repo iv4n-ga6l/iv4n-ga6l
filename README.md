@@ -1,5 +1,6 @@
 <h4>Software Engineer</h4>
-----
+<br>
+
 
 I have a lot of interest in the following areas :
 - Mobile Apps
@@ -9,7 +10,7 @@ I have a lot of interest in the following areas :
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,go,nodejs,flask,tensorflow,pytorch,sklearn,python,opencv,firebase,gcp,docker" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,go,flask,fastapi,tensorflow,pytorch,sklearn,python,opencv,firebase,docker" />
   </a>
 </p>
 
