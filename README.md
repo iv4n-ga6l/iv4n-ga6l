@@ -1,4 +1,6 @@
+<samp>
 <h4><strong>Software Engineer</strong></h4>
+</samp>
 <hr/>
 
 <p align="left">
