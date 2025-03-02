@@ -1,5 +1,5 @@
 <samp>
-<h4><strong>Building...</strong></h4>
+<h4><strong>🔵 Software Engineer | Open Source | Builder </strong></h4>
 </samp>
 <hr/>
 
