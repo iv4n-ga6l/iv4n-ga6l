@@ -473,6 +473,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iv4n-ga6l&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<a href="https://gitroll.io/profile/uUr52eYuQK9PHznyGLy5miocCP8H2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUr52eYuQK9PHznyGLy5miocCP8H2?theme=light" alt="GitRoll Profile Badge"/></a>
+
+---
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iv4n-ga6l&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iv4n-ga6l&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iv4n-ga6l&theme=blueberry)
@@ -617,8 +621,6 @@ A web platform & mobile app for assessing the level of companies in relation to 
 	  -->
 	</tbody>
 </table>
-
-<a href="https://gitroll.io/profile/uUr52eYuQK9PHznyGLy5miocCP8H2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUr52eYuQK9PHznyGLy5miocCP8H2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 <!--
 ---
