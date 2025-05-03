@@ -495,18 +495,6 @@
 Links
 </th>
   </tr>
-	  <tr>
-		<td>
-<img width="600px" src="https://i.ibb.co/bN7M6wK/Screenshot-2025-01-12-071501.png" alt="Regex Exp" />
-<h3>Regex Exp</h3>
-<p>
-Understand regex patterns with ease
-</p>
-		</td>
-		<td>
-		<p>🔗 <a href="https://regex-exp.vercel.app/" target="_blank">Launch</a></p> 
-		</td>
-	</tr>
   <tr>
 		<td>
 <img width="600px" src="https://i.ibb.co/4fS1f5Z/guardian-poster.jpg" alt="Guardian AI" />
