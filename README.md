@@ -10,16 +10,22 @@
   </a>
 </div>
 
-<samp>
+<div align="center">
+	<samp>
 <h4><strong>🔵 Software Engineer | Open Source | Builder </strong></h4>                                                                               
 </samp>
+</div>
+
+
 <hr/>
 
-<p align="left">
-  <a href="https://skillicons.dev">
+
+<div align="center">
+	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,go,flask,fastapi,tensorflow,pytorch,sklearn,python,opencv,firebase,docker" />
   </a>
-</p>
+</div>
+
 
 <br>
 
