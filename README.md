@@ -1,3 +1,15 @@
+<div align="center">
+  <a href="https://github.com/iv4n-ga6l" target="_blank">
+    <img src="https://img.shields.io/github/followers/iv4n-ga6l?label=GitHub+Followers&style=flat-square&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/iv4n-ga6l?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/iv4n-ga6l?label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-apedo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</div>
+
 <samp>
 <h4><strong>🔵 Software Engineer | Open Source | Builder </strong></h4>                                                                               
 </samp>
