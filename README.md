@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/iv4n-ga6l" target="_blank">
-    <img src="https://img.shields.io/github/followers/iv4n-ga6l?label=GitHub+Followers-CA3C66&style=flat-square&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/iv4n-ga6l?label=GitHub+Followers&style=flat-square&logo=github&color=CA3C66" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/iv4n-ga6l?tab=repositories" target="_blank">
     <img src="https://img.shields.io/github/stars/iv4n-ga6l?label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
