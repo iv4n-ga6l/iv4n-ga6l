@@ -545,7 +545,7 @@ AI Cybersecurity Companion and scam/fraud prevention mobile app built in Flutter
 	</tr>
 	<tr>
 		<td>
-<img width="600px" src="https://i.ibb.co/7jJNmvC/Screenshot-2024-11-04-180842.png" alt="Playful dice game built with flutter" />
+<img width="600px" src="https://github.com/user-attachments/assets/f2636e90-0462-40f8-8ef4-4755146f251b" alt="Playful dice game built with flutter" />
 <h3>Life Dice - Dice Rolling Game</h3>
 <p>
 Playful dice rolling game built in Flutter 💙 with fun animations and faces customization
