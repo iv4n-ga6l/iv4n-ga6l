@@ -501,7 +501,7 @@
 
 ---
 
-## ⭐ Projects
+## ⭐ Some Projects
 
 <table>
   <tbody>
