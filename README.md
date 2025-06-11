@@ -56,6 +56,24 @@ Links
   </tr>
 	  <tr>
 		<td>
+<img width="600px" src="https://github.com/user-attachments/assets/9cc7d1dc-8221-46b9-b0e5-0e46277bd1f7" alt="River cruise tours" />
+<h3>River cruise tours</h3>
+<p>
+River cruise tours booking mobile app built in Flutter 💙 
+</p>
+		</td>
+		<td>
+		<p>🔗 <a href="https://iv4n-ga6l.github.io/river_cruises_dribble-clone" target="_blank">Launch</a></p>
+<h4>Source code</h4>
+<div>
+  <a href="https://github.com/iv4n-ga6l/river_cruises_dribble-clone" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=river_cruises_dribble-clone&theme=blueberry" alt="River cruise tours" />
+  </a>
+</div>
+		</td>
+	</tr>
+	  <tr>
+		<td>
 <img width="600px" src="https://github.com/user-attachments/assets/3d37c44d-aff8-4fdd-a2fe-835e871206d1" alt="ghexplorer" />			
 <h3>ghexplorer</h3>
 <p>
