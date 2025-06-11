@@ -63,24 +63,12 @@ Terminal based GitHub profile explorer tool built in Go using Bubble Tea.
 </p>
 		</td>
 		<td>
-		<!-- <p>🔗 <a href="https://iv4n-ga6l.github.io/dice_game" target="_blank">Launch</a></p> -->
-<!-- <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
-</a>
-<br />
-<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Dashtronaut on iOS App Store" />
-</a>
-<br />
-<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318660-9fa21629-f903-4a6d-9dd2-ff3965bcd2ce.svg" alt="Dashtronaut on Mac App Store" />
-</a> -->
-<!-- <h4>Source code</h4>
+<h4>Source code</h4>
 <div>
-  <a href="https://github.com/iv4n-ga6l/dice_game" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=dice_game&theme=blueberry" alt="Dice Game" />
+  <a href="https://github.com/iv4n-ga6l/ghexplorer" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=ghexplorer&theme=blueberry" alt="ghexplorer" />
   </a>
-</div> -->
+</div>
 		</td>
 	</tr>
   <tr>
