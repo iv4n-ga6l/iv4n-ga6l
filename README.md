@@ -56,7 +56,7 @@ Links
   </tr>
 	  <tr>
 		<td>
-![ghexplorer](https://github.com/user-attachments/assets/aa417c9e-3b3d-4ad1-a3e8-ca4991580a25)
+<img width="600px" src="https://github.com/user-attachments/assets/3d37c44d-aff8-4fdd-a2fe-835e871206d1" alt="ghexplorer" />			
 <h3>ghexplorer</h3>
 <p>
 Terminal based GitHub profile explorer tool built in Go using Bubble Tea.
