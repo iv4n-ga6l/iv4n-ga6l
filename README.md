@@ -12,6 +12,7 @@
 
 <div align="center">
 	<samp>
+**`🔵 Software Engineer | Machine Learning & Computer Vision | Open Source`**
 <h4><strong>🔵 Software Engineer | Machine Learning & Computer Vision | Open Source </strong></h4>                                                                               
 </samp>
 </div>
