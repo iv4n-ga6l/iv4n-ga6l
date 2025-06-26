@@ -40,6 +40,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iv4n-ga6l&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iv4n-ga6l&theme=blueberry)
 
+<!--
 ---
 
 ## ⭐ Some Projects
@@ -99,24 +100,6 @@ AI Cybersecurity Companion and scam/fraud prevention mobile app built in Flutter
 <p>🎥 <a href="https://youtu.be/m6T1mizEnOs">Watch Submission</a></p>
 		</td>
 		<td>
-		<!-- <p>🔗 <a href="https://iv4n-ga6l.github.io/dice_game" target="_blank">Launch</a></p> -->
-<!-- <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
-</a>
-<br />
-<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Dashtronaut on iOS App Store" />
-</a>
-<br />
-<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318660-9fa21629-f903-4a6d-9dd2-ff3965bcd2ce.svg" alt="Dashtronaut on Mac App Store" />
-</a> -->
-<!-- <h4>Source code</h4>
-<div>
-  <a href="https://github.com/iv4n-ga6l/dice_game" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=dice_game&theme=blueberry" alt="Dice Game" />
-  </a>
-</div> -->
 		</td>
 	</tr>
 	<tr>
@@ -129,17 +112,6 @@ Playful dice rolling game built in Flutter 💙 with fun animations and faces cu
 		</td>
 		<td>
 		<p>🔗 <a href="https://iv4n-ga6l.github.io/dice_game" target="_blank">Launch</a></p>
-<!-- <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
-</a>
-<br />
-<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Dashtronaut on iOS App Store" />
-</a>
-<br />
-<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318660-9fa21629-f903-4a6d-9dd2-ff3965bcd2ce.svg" alt="Dashtronaut on Mac App Store" />
-</a> -->
 <h4>Source code</h4>
 <div>
   <a href="https://github.com/iv4n-ga6l/dice_game" target="_blank">
@@ -148,26 +120,6 @@ Playful dice rolling game built in Flutter 💙 with fun animations and faces cu
 </div>
 		</td>
 	</tr>
-	  <!--
-	<tr>
-		<td>
-<img width="600px" src="https://i.ibb.co/fGrvSNk/Screenshot-2024-11-04-184721.png" alt="Image Toolbox" />
-<h3>Image Toolbox</h3>
-<p>
-Image processing tool suite web app built using NextJs/Tailwind/ShadcnUI with Python Flask backend
-</p>
-		</td>
-		<td>
-		<p>🔗 <a href="https://image-toolbox.netlify.app" target="_blank">Launch</a></p>
-<h4>Source code</h4>
-<div>
-  <a href="https://github.com/iv4n-ga6l/Image-Toolbox-Frontend/tree/newFrontendNextJS" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Image-Toolbox-Frontend&theme=blueberry" alt="Image Toolbox" />
-  </a>
-</div>
-		</td>
-	</tr>
-	  -->
 	<tr>
 		<td>
 <img width="600px" src="https://github.com/user-attachments/assets/78301610-8c67-4665-9695-cf0be1351630" alt="Delivery Tracker" />
@@ -181,26 +133,6 @@ Delivery tracker simulator built with React/MaterialUI with NodeJS backend
 		<p>🔗 <a href="https://delivery-tracker-web.netlify.app/" target="_blank">Launch</a></p>
 		</td>
 	</tr>
-	  <!--
-	<tr>
-		<td>
-<img width="600px" src="https://i.ibb.co/TLf1KVb/Screenshot-2024-11-04-185041.png" alt="Diag'Ec" />
-<h3>Diag'Ec</h3>
-<p>
-A web platform & mobile app for assessing the level of companies in relation to circular economy built using NextJS, Flutter 💙 & Firebase
-</p>
-		</td>
-		<td>
-		<p>🔗 <a href="https://diagec.esaip.org" target="_blank">Launch</a></p>
-<a href="https://play.google.com/store/apps/details?id=fr.diagec.app&gl=FR">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Diag'Ec on Google Play" />
-</a>
-<br />
-<a href="https://apps.apple.com/fr/app/diagec/id6465952696" target="_blank">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Diag'Ec on iOS App Store" />
-</a>
-		</td>
-	</tr>
-	  -->
 	</tbody>
 </table>
+-->
