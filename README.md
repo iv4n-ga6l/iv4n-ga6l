@@ -22,7 +22,7 @@
 
 <div align="center">
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,go,flask,fastapi,tensorflow,pytorch,sklearn,python,opencv,firebase,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=python,go,flask,fastapi,tensorflow,pytorch,sklearn,opencv,firebase,mlflow,docker,kubernetes,githubactions" />
   </a>
 </div>
 
