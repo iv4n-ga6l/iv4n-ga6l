@@ -12,7 +12,7 @@
 
 <div align="center">
 	<samp>
-<h4><strong>🧠 ML Engineer | MLOps | Computer Vision | Open Source </strong></h4>                                                                               
+<h4><strong>🧠 ML Software Engineer | Computer Vision | Open Source </strong></h4>                                                                               
 </samp>
 </div>
 
