@@ -8,7 +8,11 @@
   <a href="https://www.linkedin.com/in/ivan-apedo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  <a href="https://x.com/iv4nGa6l" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter/X Badge" />
+  </a>
 </div>
+
 
 <div align="center">
 	<samp>
