@@ -1,4 +1,13 @@
 <div align="center">
+	<samp>
+<h4><strong> Software Engineer </strong></h4>                                                                               
+</samp>
+</div>
+
+
+<hr/>
+
+<div align="center">
   <a href="https://github.com/iv4n-ga6l" target="_blank">
     <img src="https://img.shields.io/github/followers/iv4n-ga6l?label=GitHub+Followers&style=flat-square&logo=github&color=DE0068" alt="GitHub Followers" />
   </a>
@@ -13,15 +22,8 @@
   </a>
 </div>
 
-
-<div align="center">
-	<samp>
-<h4><strong> Software Engineer </strong></h4>                                                                               
-</samp>
-</div>
-
-
 <hr/>
+
 
 I have a lot of interest in the following topics:
 - ML
