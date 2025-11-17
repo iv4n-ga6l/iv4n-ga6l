@@ -16,10 +16,18 @@
 
 <div align="center">
 	<samp>
-<h4><strong>🧠 Software Engineer | ML | Computer Vision | AI Agents </strong></h4>                                                                               
+<h4><strong> Software Engineer </strong></h4>                                                                               
 </samp>
 </div>
 
+
+<hr/>
+
+I have a lot of interest in the following topics:
+- ML
+- Computer Vision
+- AI Agents
+- Dev tools
 
 <hr/>
 
