@@ -7,7 +7,7 @@
 -->
 
 <div align="center">
-  <em>~ Software Engineer.</em>
+  <strong>~ Software Engineer.</strong>
 </div>
 
 **`~ Software Engineer.`**
