@@ -51,7 +51,7 @@ I have a lot of interest in the following topics:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iv4n-ga6l&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iv4n-ga6l&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iv4n-ga6l&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iv4n-ga6l&langs_count=10&hide=javascript,html,css,shell,java,ruby,php,swift,kotlin,scala,perl,rust)
 
 <!--
 ---
