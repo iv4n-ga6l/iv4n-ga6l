@@ -4,6 +4,8 @@
   <kbd>~ Software Engineer.</kbd>
 </div>
 
+<a href="https://app.skillsync.wiki/profile/iv4n-ga6l" target="_blank">
+
 <hr/>
 
 <div align="center">
