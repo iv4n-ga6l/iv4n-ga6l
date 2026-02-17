@@ -4,8 +4,6 @@
   <kbd>~ Software Engineer.</kbd>
 </div>
 
-<a href="https://app.skillsync.wiki/profile/iv4n-ga6l" target="_blank">
-
 <hr/>
 
 <div align="center">
@@ -24,6 +22,8 @@
 </div>
 
 <hr/>
+
+<a href="https://app.skillsync.wiki/profile/iv4n-ga6l" target="_blank">
 
 
 I have a lot of interest in the following topics:
