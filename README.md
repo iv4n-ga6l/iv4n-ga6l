@@ -45,10 +45,10 @@
 
 I have a lot of interest in the following topics:
 
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 🧠 AI Agents
-- 🛠️ Dev Tools
+- ML
+- Computer Vision
+- AI Agents
+- Dev Tools
 
 </div>
 
@@ -58,7 +58,7 @@ I have a lot of interest in the following topics:
 <td width="50%" valign="middle" align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,go,flask,fastapi,tensorflow,pytorch,sklearn,opencv,firebase,gcp,aws,mongodb,postgres,docker,kubernetes,supabase,nextjs,githubactions&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,go,flask,fastapi,tensorflow,pytorch,sklearn,opencv,firebase,gcp,mongodb,postgres,docker,kubernetes,supabase,nextjs,githubactions,&perline=6" />
 </a>
 
 </td>
@@ -72,22 +72,22 @@ I have a lot of interest in the following topics:
 
 <td align="center">
 
-<a href="#">
+<a href="https://aumeriax.vercel.app/">
 <img
-src="https://placehold.co/700x420/0D1117/FFFFFF?text=Project+1"
+src="Aumeriax.jpeg"
 width="100%"
-alt="Project 1"/>
+alt="Aumeriax"/>
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="#">
+<a href="https://uicontext.onrender.com/">
 <img
-src="https://placehold.co/700x420/0D1117/FFFFFF?text=Project+2"
+src="UIContext.jpg"
 width="100%"
-alt="Project 2"/>
+alt="UIContext"/>
 </a>
 
 </td>
